@@ -5,6 +5,9 @@
 <!-- 个人&仓库信息 -->
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=AliveSeven&include_all_commits=true&show_icons=true" />
 
+Here are My Personal Blog:
+https://aliveseven.github.io/
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 
