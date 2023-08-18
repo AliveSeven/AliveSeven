@@ -3,7 +3,7 @@
 <!--
 **AliveSeven/AliveSeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!-- 个人&仓库信息 -->
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=AliveSeven&include_all_commits=true&show_icons=true" />
+<!-- <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=AliveSeven&include_all_commits=true&show_icons=true" /> -->
 
 Here are my personal blog : https://aliveseven.github.io/
 
